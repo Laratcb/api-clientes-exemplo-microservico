@@ -8,6 +8,11 @@ Mesmo sem ter feito o curso, você pode baixar e executar a API pra estudo =)
 
 Usei Kotlin e Springboot para programar essa API.
 
+"There's been trials and tribulations
+You know I've had my share
+But I've climbed the mountain, I've crossed the river
+And I'm almost there" The Princess & The Frog
+
 ### Requisitos
 
 Baixe e instale o [INTELIJ](https://www.jetbrains.com/idea/)
